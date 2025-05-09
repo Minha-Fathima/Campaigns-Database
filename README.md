@@ -26,7 +26,7 @@ This system models relationships between clients, departments, employees, campai
 
 ---
 
-## 🧱 Core Components
+## Core Components
 
 ### 1. Entity-Relationship Model
 - Includes entities like `Employee`, `Client`, `Campaign`, etc.
